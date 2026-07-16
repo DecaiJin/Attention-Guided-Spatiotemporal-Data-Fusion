@@ -1,6 +1,6 @@
 
 
-![Kherson_transfer](pic\Kherson_transfer.png)
+![Kherson_transfer](./pic/Kherson_transfer.png)
 
 # A variation attention-guided network for spatio-temporal fusion
 
