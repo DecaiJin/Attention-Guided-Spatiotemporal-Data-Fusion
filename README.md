@@ -153,4 +153,6 @@ python scripts/export_model.py --state <your training weight path> --output <out
 3. `TensorRT`-based `GPU`-accelerated versions may also be released.
 
 ## Citations
-
+Decai Jin, Xiufang Zhu, Ying Qu, Jianbo Qi, Hanyi Wu, Yaozhong Pan,
+A robust and efficient deep optimization network for spatiotemporal data fusion,
+Information Fusion,Volume 127, Part C,2026,103939,ISSN 1566-2535,https://doi.org/10.1016/j.inffus.2025.103939.
