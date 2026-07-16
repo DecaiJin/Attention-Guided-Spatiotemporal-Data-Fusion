@@ -1,0 +1,9 @@
+GDAL==3.0.2
+guided_filter_pytorch==3.7.5
+numpy==1.22.3
+onnx-pytorch
+torch
+torchvision
+openvino-dev==2023.1.0
+openvino==2023.1.0
+accelerate
